@@ -41,3 +41,25 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Number and name of feature: Feature #1 - Refactor the CSS
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 3:23p
+
+Finish time: 4:03p
+
+Actual time needed to complete: 40 minutes
+
+
+
+Number and name of feature: Feature #2 - Modify the Contents
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 4:03p
+
+Finish time: 
+
+Actual time needed to complete: 
